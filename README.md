@@ -15,7 +15,7 @@
   <li>Build : <strong>Gradle</strong></li>
   <li>Database : <strong>H2</strong></li>
   <li>JDK : <strong>OpenJDK 21</strong></li>
-  <li>Testing : <strong>JUnit<strong>
+  <li>Testing : <strong>JUnit<strong><li>
   <li>Library : <strong>Lombok, jpa, validation, web, data-redis, redis client, embedded redis, starter-test</strong></li>
   <li>Tool : <strong>IntelliJ IDEA Ultimate</strong></li>
 </ul>
